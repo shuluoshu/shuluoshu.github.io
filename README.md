@@ -36,7 +36,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 
 
 - **Monocular 3d object detection via feature domain adaptation.** ECCV 2020. [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540018.pdf)
-  - <font color=#8B4726 >**Xiaoqing Ye**</font>, Liang Du, Yifeng Shi, Yingying Li, Xiao Tan, Jianfeng Feng, Errui Ding, Shilei Wen.
+  - **Xiaoqing Ye**, Liang Du, Yifeng Shi, Yingying Li, Xiao Tan, Jianfeng Feng, Errui Ding, Shilei Wen.
   
 - **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network.** IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**) 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9511841)
   - Liang Du, **Xiaoqing Ye**, Xiao Tan, Edward Johns, Bo Chen, Errui Ding, Xiangyang Xue, Jianfeng Feng.
