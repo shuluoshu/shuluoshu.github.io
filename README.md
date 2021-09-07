@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## About me
+I am now working at Baidu VIS as a research and engineer. My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation and NeRF.
 
-You can use the [editor on GitHub](https://github.com/shuluoshu/shuluoshu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Recent Acitivities
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2 Papers accepted by ICCV 2021.
+- One paper accepted by TPAMI 2021.
+- 4 Papers accepted by ACM MM 2021.
+- 1 Paper accpeted by CVPR 2021.
+- Won the first place in ROD Challenge!
+- 1 workshop paper accepted by ICMR 2021.
+- 1 Paper accepted by ECCV 2020.
+- 1 Paper accepted by CVPR 2020.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuluoshu/shuluoshu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
