@@ -10,14 +10,14 @@ Baidu Inc.
 # About me
 I am now working at Baidu VIS as an RD.  
 My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation and NeRF.
-I received my B.E degree from Wuhan University and my Ph.D. degree from Chinese Academy of Sciences, under the supervision of Xiaolin Zhang.
+I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019, under the supervision of Xiaolin Zhang.
 
 --------
 
 # Recent Acitivities
 
 - 2 Papers accepted by ICCV 2021.
-- One paper accepted by TPAMI 2021.
+- 1 paper accepted by TPAMI 2021.
 - 4 Papers accepted by ACM MM 2021.
 - 1 Paper accpeted by CVPR 2021.
 - Won the first place in ROD Challenge!
@@ -25,7 +25,8 @@ I received my B.E degree from Wuhan University and my Ph.D. degree from Chinese 
 - 1 Paper accepted by ECCV 2020.
 - 1 Paper accepted by CVPR 2020.
 - 1 Paper accepted by AAAI 2020 as **oral**!
-- Won the first place in AICity Challengle 2019. 
+- Won the first place in AI City Challengle 2020 Track 1.
+- Won the first place in AI City Challengle 2019 ReID Track. 
 - 1 Paper accepted by IROS 2020.
 - 1 Paper accepted by ICCV 2019.
 - 1 Paper accepted by ECCV 2018.
