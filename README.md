@@ -24,6 +24,11 @@ I received my B.E degree from Wuhan University and my Ph.D. degree from Chinese 
 - 1 workshop paper accepted by ICMR 2021.
 - 1 Paper accepted by ECCV 2020.
 - 1 Paper accepted by CVPR 2020.
+- 1 Paper accepted by AAAI 2020 as **oral**!
+- Won the first place in AICity Challengle 2019. 
+- 1 Paper accepted by IROS 2020.
+- 1 Paper accepted by ICCV 2019.
+- 1 Paper accepted by ECCV 2018.
 
 --------
 # Publications
@@ -60,12 +65,15 @@ I received my B.E degree from Wuhan University and my Ph.D. degree from Chinese 
 - **Associate-3Ddet: Perceptual-to-conceptual association for 3D point cloud object detection**. CVPR 2020. [[PDF]](https://arxiv.org/abs/2006.04356)
     - Liang Du, **Xiaoqing Ye**, Xiao Tan, Jianfeng Feng, Zhenbo Xu, Errui Ding, Shilei Wen.
  
-- **RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss**. IROS 2020. [[PDF]](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)
+- **RegionNet: Region-feature-enhanced 3D Scene Understanding Network with Dual Spatial-aware Discriminative Loss**. IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**) 2020. [[PDF]](http://ras.papercept.net/images/temp/IROS/files/0144.pdf)
   - Guanghui Zhang, Dongchen Zhu, **Xiaoqing Ye**, Wenjun Shi, Minghong Chen, Jiamao Li, Xiaolin Zhang.
+
 
 - **Leaping from 2D Detection to Efficient 6DoF Object Pose Estimation**. ECCVw 2020. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-66096-3_47)
   - Jinhui Liu*, Zhikang Zou*, Xiaoqing Ye*, Xiao Tan, Errui Ding, Feng Xu, Xin Yu.
 
+- **SSf-DAN: Separated semantic feature based domain adaptation network for semantic segmentation**. Proceedings of the IEEE International Conference on Computer Vision (ICCV) 2019.[[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Du_SSF-DAN_Separated_Semantic_Feature_Based_Domain_Adaptation_Network_for_Semantic_ICCV_2019_paper.pdf) [[Code]](https://github.com/Biotan/SSF-DAN)
+  - Liang Du, Jingang Tan, Hongye Yang, Jianfeng Feng, Xiangyang Xue, Qibao Zheng, **Xiaoqing Ye**, Xiaolin Zhang.
 - **Order-based disparity refinement including occlusion handling for stereo matching**. IEEE Signal Processing Letters 2017. [[PDF]](https://ieeexplore.ieee.org/document/8010259)
   - **Xiaoqing Ye**, Yuzhang Gu, Lili Chen, Jiamao Li, Han Wang, Xiaolin Zhang.
 
