@@ -7,7 +7,7 @@ Baidu Inc.
 [[Google scholar]](https://scholar.google.com/citations?user=bmN_nycAAAAJ)
 
 --------
-# About me
+# About Me
 I am now working at Baidu VIS as an RD.  
 My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation and NeRF.
 I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019, under the supervision of Xiaolin Zhang.
@@ -50,8 +50,17 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection**. CVPR 20201. [[PDF]](https://arxiv.org/abs/2103.16470)[[Code]](https://github.com/fudan-zvg/DDMP)
   - Li Wang\*, Liang Du\*, **Xiaoqing Ye**\*, Yanwei Fu, Guodong Guo, Xiangyang Xue, Jianfeng Feng, Li Zhang.
 
-- **Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network**. ACM MM 2021.
+- **AggNet for Self-supervised Monocular Depth Estimation: Go An Aggressive Step Further.** ACM International Conference on Multimedia (**ACMMM**) 2021.
+  - Zhi Chen\*, **Xiaoqing Ye**\*, Liang Du, Wei Yang, Liusheng Huang, Xiao Tan, Zhenbo Shi, Fumin Shen, Errui Ding.
+  
+- **Lifting the Veil of Frequency in Joint Segmentation and Depth Estimation**. ACM International Conference on Multimedia (**ACMMM**) 2021.
+  - Tianhao Fu\*, Yingying Li\*, **Xiaoqing Ye**\*, Xiao Tan, Hao Sun, Fumin Shen, Errui Ding.
+  
+- **Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network**. ACM International Conference on Multimedia (**ACMMM**) 2021.
   - Zhikang Zou\*, Xiaoye Qu\*, Pan Zhou, Shuangjie Xu, **Xiaoqing Ye**, Wenhao Wu, Jin Ye.
+  
+- **Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting**. ACM International Conference on Multimedia (**ACMMM**) 2021.
+  - Qiming Wu*, Zhikang Zou*, Pan Zhou, **Xiaoqing Ye**, Binghui Wang, Ang Li.
   
 - **DANet: Dimension Apart Network for Radar Object Detection**. ICMRworkshop 2021.[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3460426.3463656)
   - Bo Ju, Wei Yang, Jinrang Jia, **Xiaoqing Ye**, Qu Chen, Xiao Tan, Hao Sun, Yifeng Shi, Errui Ding.
