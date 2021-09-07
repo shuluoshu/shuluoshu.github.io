@@ -36,7 +36,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 
 
 - **Monocular 3d object detection via feature domain adaptation.** ECCV 2020. [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540018.pdf)
-  - **Xiaoqing Ye**\*, Liang Du, Yifeng Shi, Yingying Li, Xiao Tan, Jianfeng Feng, Errui Ding, Shilei Wen.
+  - **Xiaoqing Ye**\*, Liang Du\*, Yifeng Shi, Yingying Li, Xiao Tan, Jianfeng Feng, Errui Ding, Shilei Wen.
   
 - **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network.** IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**) 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9511841)
   - Liang Du, **Xiaoqing Ye**, Xiao Tan, Edward Johns, Bo Chen, Errui Ding, Xiangyang Xue, Jianfeng Feng.
@@ -84,10 +84,11 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 
 - **SSf-DAN: Separated semantic feature based domain adaptation network for semantic segmentation**. Proceedings of the IEEE International Conference on Computer Vision (ICCV) 2019.[[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Du_SSF-DAN_Separated_Semantic_Feature_Based_Domain_Adaptation_Network_for_Semantic_ICCV_2019_paper.pdf) [[Code]](https://github.com/Biotan/SSF-DAN)
   - Liang Du, Jingang Tan, Hongye Yang, Jianfeng Feng, Xiangyang Xue, Qibao Zheng, **Xiaoqing Ye**, Xiaolin Zhang.
+  
 - **Order-based disparity refinement including occlusion handling for stereo matching**. IEEE Signal Processing Letters 2017. [[PDF]](https://ieeexplore.ieee.org/document/8010259)
   - **Xiaoqing Ye**, Yuzhang Gu, Lili Chen, Jiamao Li, Han Wang, Xiaolin Zhang.
 
-- **Feature Ensemble Network with Occlusion Disambiguation for Accurate Patch-Based Stereo Matching**。 IEICE TRANSACTIONS on Information and Systems 2017. 
+- **Feature Ensemble Network with Occlusion Disambiguation for Accurate Patch-Based Stereo Matching**. IEICE TRANSACTIONS on Information and Systems 2017. [[PDF]](https://www.jstage.jst.go.jp/article/transinf/E100.D/12/E100.D_2017EDL8122/_pdf)
   - **Xiaoqing Ye**, Jiamao Li, Han Wang, Xiaolin Zhang.
 
 
