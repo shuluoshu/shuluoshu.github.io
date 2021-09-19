@@ -10,7 +10,7 @@ Baidu Inc.
 # About Me
 I am now working at Baidu VIS as an RD.  
 My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation and NeRF.
-I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019, under the supervision of Xiaolin Zhang.
+I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019, under the supervision of Professor Xiaolin Zhang.
 
 --------
 
