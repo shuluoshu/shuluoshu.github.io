@@ -57,7 +57,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Zhikang Zou\*, Xiaoye Qu\*, Pan Zhou, Shuangjie Xu, **Xiaoqing Ye**, Wenhao Wu, Jin Ye.
   
 - **Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting**. ACM International Conference on Multimedia (**ACM MM**) 2021.
-  - Qiming Wu*, Zhikang Zou*, Pan Zhou, **Xiaoqing Ye**, Binghui Wang, Ang Li.
+  - Qiming Wu\*, Zhikang Zou\*, Pan Zhou, **Xiaoqing Ye**, Binghui Wang, Ang Li.
   
 - **DANet: Dimension Apart Network for Radar Object Detection**. ICMRworkshop 2021.[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3460426.3463656)
   - Bo Ju, Wei Yang, Jinrang Jia, **Xiaoqing Ye**, Qu Chen, Xiao Tan, Hao Sun, Yifeng Shi, Errui Ding.
@@ -76,7 +76,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Guanghui Zhang, Dongchen Zhu, **Xiaoqing Ye**, Wenjun Shi, Minghong Chen, Jiamao Li, Xiaolin Zhang.
 
 - **Leaping from 2D Detection to Efficient 6DoF Object Pose Estimation**. ECCVw 2020. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-66096-3_47)
-  - Jinhui Liu*, Zhikang Zou*, **Xiaoqing Ye**\*, Xiao Tan, Errui Ding, Feng Xu, Xin Yu.
+  - Jinhui Liu\*, Zhikang Zou\*, **Xiaoqing Ye**\*, Xiao Tan, Errui Ding, Feng Xu, Xin Yu.
   
 - **Object reidentification via joint quadruple decorrelation directional deep networks in smart transportation**. IEEE Internet of Things Journal 2020. [[PDF]](https://ieeexplore.ieee.org/document/8950171)
   - Jianqing Zhu, Jingchang Huang, Huanqiang Zeng, **Xiaoqing Ye**, Baoqing Li, Zhen Lei, Lixin Zheng.
