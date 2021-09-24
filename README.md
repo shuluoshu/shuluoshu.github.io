@@ -55,10 +55,10 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **Lifting the Veil of Frequency in Joint Segmentation and Depth Estimation**. ACM International Conference on Multimedia (**ACM MM**) 2021.
   - Tianhao Fu\*, Yingying Li\*, **Xiaoqing Ye**\*, Xiao Tan, Hao Sun, Fumin Shen, Errui Ding.
   
-- **Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network**. ACM International Conference on Multimedia (**ACM MM**) 2021.
+- **Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network**. ACM International Conference on Multimedia (**ACM MM**) 2021.[[PDF]](https://arxiv.org/abs/2107.12858)
   - Zhikang Zou\*, Xiaoye Qu\*, Pan Zhou, Shuangjie Xu, **Xiaoqing Ye**, Wenhao Wu, Jin Ye.
   
-- **Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting**. ACM International Conference on Multimedia (**ACM MM**) 2021.
+- **Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting**. ACM International Conference on Multimedia (**ACM MM**) 2021.[[PDF]](https://arxiv.org/pdf/2104.10868.pdf)
   - Qiming Wu\*, Zhikang Zou\*, Pan Zhou, **Xiaoqing Ye**, Binghui Wang, Ang Li.
   
 - **DANet: Dimension Apart Network for Radar Object Detection**. ICMRworkshop 2021.[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3460426.3463656)
