@@ -40,11 +40,11 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network.** IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**) 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9511841)
   - Liang Du, **Xiaoqing Ye**, Xiao Tan, Edward Johns, Bo Chen, Errui Ding, Xiangyang Xue, Jianfeng Feng.
   
-- **The Devil is in the Task: Exploiting Reciprocal Appearance-Localization Features for Monocular 3D Object Detection**. ICCV 2021.
+- **The Devil is in the Task: Exploiting Reciprocal Appearance-Localization Features for Monocular 3D Object Detection**. ICCV 2021.[[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_The_Devil_Is_in_the_Task_Exploiting_Reciprocal_Appearance-Localization_Features_ICCV_2021_paper.pdf)
   - Zhikang Zou\*, **Xiaoqing Ye**\*, Liang Du\*, Xianhui Cheng*, Xiao Tan, Li Zhang, Jianfeng Feng, Xiangyang Xue, Errui Ding.
 
 - **Revealing the Reciprocal Relations between Self-Supervised Stereo and Monocular Depth Estimation**. ICCV 2021.
-  - Zhi Chen, **Xiaoqing Ye**, Zhikang Zou, Wei Yang, Zhenbo Xu, Xiao Tan, Zhikang Zou, Errui Ding, Xinming Zhang, Liusheng Huang.
+  - Zhi Chen, **Xiaoqing Ye**, Zhikang Zou, Wei Yang, Zhenbo Xu, Xiao Tan, Zhikang Zou, Errui Ding, Xinming Zhang, Liusheng Huang.[[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Revealing_the_Reciprocal_Relations_Between_Self-Supervised_Stereo_and_Monocular_Depth_ICCV_2021_paper.pdf)
   
 - **Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection**. CVPR 20201. [[PDF]](https://arxiv.org/abs/2103.16470)[[Code]](https://github.com/fudan-zvg/DDMP)
   - Li Wang\*, Liang Du\*, **Xiaoqing Ye**\*, Yanwei Fu, Guodong Guo, Xiangyang Xue, Jianfeng Feng, Li Zhang.
