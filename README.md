@@ -17,7 +17,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 --------
 
 # Recent Acitivities
-
+- 1 Paper accepted by AAAI 2022.
 - 2 Papers accepted by ICCV 2021.
 - 1 paper accepted by TPAMI 2021.
 - 4 Papers accepted by ACM MM 2021.
