@@ -17,6 +17,8 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 --------
 
 # Recent Acitivities
+- 1 Paper accepted by KDD 2022!
+- 2 Papers accepted by CVPR 2022!
 - 1 Paper accepted by AAAI 2022.
 - 2 Papers accepted by ICCV 2021.
 - 1 paper accepted by TPAMI 2021.
@@ -35,7 +37,9 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 
 --------
 # Publications
-
+## 2022
+- **Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf)
+  - **Xiaoqing Ye**, Mao Shu, Hanyu Li, Yifeng Shi, Yingying Li, Guangjie Wang, Xiao Tan, Errui Ding.
 ## 2021 
 - **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network.** IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**) 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9511841)
   - Liang Du, **Xiaoqing Ye**, Xiao Tan, Edward Johns, Bo Chen, Errui Ding, Xiangyang Xue, Jianfeng Feng.
