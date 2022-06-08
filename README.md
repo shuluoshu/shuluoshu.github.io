@@ -40,6 +40,10 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 ## 2022
 - **Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf)
   - **Xiaoqing Ye**, Mao Shu, Hanyu Li, Yifeng Shi, Yingying Li, Guangjie Wang, Xiao Tan, Errui Ding.
+- **TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation**. CVPR 2022. [[PDF]](https://jiaya.me/papers/cvpr22_ruihang.pdf)
+- **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.
+  - Jianzhong Yang\*, **Xiaoqing Ye**\*, Bin Wu, Yanlei Gu, Ziyu Wang, Deguo Xia, Jizhou Huang.
+  
 ## 2021 
 - **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network.** IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**) 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9511841)
   - Liang Du, **Xiaoqing Ye**, Xiao Tan, Edward Johns, Bo Chen, Errui Ding, Xiangyang Xue, Jianfeng Feng.
