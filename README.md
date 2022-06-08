@@ -44,6 +44,10 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Ruihang Chu, **Xiaoqing Ye**, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia.
 - **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.
   - Jianzhong Yang\*, **Xiaoqing Ye**\*, Bin Wu, Yanlei Gu, Ziyu Wang, Deguo Xia, Jizhou Huang.
+- **Modify the self-attention via skeleton decomposition for effective point-cloud transformer**， AAAI 2022.[[PDF]](https://www.aaai.org/AAAI22Papers/AAAI-612.HanJ.pdf)
+  - Jiayi Han, Longbin Zeng, Liang Du, **Xiaoqing Ye**, Weiyang Ding, Jianfeng Feng.  
+- **The devil is in the face: Exploiting harmonious representations for facial expression recognition**, NeuralComputing.[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002193)
+  - Jiayi Han, Liang Du, **Xiaoqing Ye**, Li Zhang, Jianfeng Feng.  
   
 ## 2021 
 - **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network.** IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**) 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9511841)
