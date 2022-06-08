@@ -38,7 +38,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 --------
 # Publications
 ## 2022
-- **Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf)
+- **Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf)
   - **Xiaoqing Ye**, Mao Shu, Hanyu Li, Yifeng Shi, Yingying Li, Guangjie Wang, Xiao Tan, Errui Ding.
 - **TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation**. CVPR 2022. [[PDF]](https://jiaya.me/papers/cvpr22_ruihang.pdf)
   - Ruihang Chu, **Xiaoqing Ye**, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia.
