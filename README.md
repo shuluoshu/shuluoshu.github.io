@@ -17,6 +17,9 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 --------
 
 # Recent Acitivities
+- 1 Paper accepted by ECCV2022!
+- Won the Champion both in the Pitch Localization and Camera Calibration Track in SoccerNet Challenge in CVPR!
+- 2 Papers accepted by ACM MM 2022!
 - 1 Paper accepted by KDD 2022!
 - 2 Papers accepted by CVPR 2022!
 - 1 Paper accepted by AAAI 2022.
@@ -24,7 +27,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - 1 paper accepted by TPAMI 2021.
 - 4 Papers accepted by ACM MM 2021.
 - 1 Paper accpeted by CVPR 2021.
-- Won the first place in ROD Challenge!
+- Won the Champion in ROD Challenge!
 - 1 workshop paper accepted by ICMR 2021.
 - 1 Paper accepted by ECCV 2020.
 - 1 Paper accepted by CVPR 2020.
@@ -40,6 +43,8 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 ## 2022
 - **Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf)
   - **Xiaoqing Ye**, Mao Shu, Hanyu Li, Yifeng Shi, Yingying Li, Guangjie Wang, Xiao Tan, Errui Ding.
+- **GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation**. ECCV 2022. [[PDF]](https://arxiv.org/abs/2204.07733)
+  - Shi Gong\*, **Xiaoqing Ye**\*, Xiao Tan, Jingdong Wang, Errui Ding, Yu Zhou, Xiang Bai.
 - **TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation**. CVPR 2022. [[PDF]](https://jiaya.me/papers/cvpr22_ruihang.pdf)
   - Ruihang Chu, **Xiaoqing Ye**, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia.
 - **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.
