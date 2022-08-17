@@ -10,15 +10,15 @@ Baidu Inc.
 
 --------
 # About Me
-I am now working at Baidu VIS as an RD.  
+I am now working at Baidu VIS as an Reseacher & Developer.  
 My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation, NeRF and human motion capture.
-I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019, under the supervision of Professor Xiaolin Zhang.
+I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019.
 
 --------
 
 # Recent Acitivities
 - 1 Paper accepted by ECCV2022!
-- Won the Champion both in the Pitch Localization and Camera Calibration Track in SoccerNet Challenge in CVPR!
+- Won the Champion both in the Pitch Localization and Camera Calibration Track in SoccerNet Challenge (CVPR2022)!
 - 2 Papers accepted by ACM MM 2022!
 - 1 Paper accepted by KDD 2022!
 - 2 Papers accepted by CVPR 2022!
@@ -47,7 +47,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Shi Gong\*, **Xiaoqing Ye**\*, Xiao Tan, Jingdong Wang, Errui Ding, Yu Zhou, Xiang Bai.
 - **TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation**. CVPR 2022. [[PDF]](https://jiaya.me/papers/cvpr22_ruihang.pdf)
   - Ruihang Chu, **Xiaoqing Ye**, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia.
-- **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.
+- **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.[[PDF]](https://dl.acm.org/doi/abs/10.1145/3534678.3539029)
   - Jianzhong Yang\*, **Xiaoqing Ye**\*, Bin Wu, Yanlei Gu, Ziyu Wang, Deguo Xia, Jizhou Huang.
 - **Modify the self-attention via skeleton decomposition for effective point-cloud transformer**， AAAI 2022. [[PDF]](https://www.aaai.org/AAAI22Papers/AAAI-612.HanJ.pdf)
   - Jiayi Han, Longbin Zeng, Liang Du, **Xiaoqing Ye**, Weiyang Ding, Jianfeng Feng.  
