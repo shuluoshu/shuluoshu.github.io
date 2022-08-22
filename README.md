@@ -6,7 +6,7 @@
 ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/shuluoshu-github-readme)
 
 
-Department of Computer Vision Technology (VIS).
+Serving as an RD in Department of Computer Vision Technology (VIS).
 Baidu Inc. 
 
 
