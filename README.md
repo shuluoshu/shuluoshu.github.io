@@ -15,7 +15,7 @@ Baidu Inc.
 --------
 # About Me
 I am now working at Baidu VIS as an Reseacher & Developer.  
-My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation, NeRF and human motion capture.
+My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation, NeRF and human motion capture, especially for Autonomous Driving and AIGC.
 I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019.
 
 --------
@@ -24,7 +24,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - 1 Paper accepted by ECCV2022!
 - Won the Champion both in the Pitch Localization and Camera Calibration Track in SoccerNet Challenge (CVPR2022)!
 - 2 Papers accepted by ACM MM 2022!
-- 1 Paper accepted by KDD 2022 !(oral)
+- 1 Paper accepted by KDD 2022 as **oral**!
 - 2 Papers accepted by CVPR 2022!
 - 1 Paper accepted by AAAI 2022.
 - 2 Papers accepted by ICCV 2021.
