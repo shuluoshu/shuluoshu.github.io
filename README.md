@@ -6,10 +6,10 @@
 ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/shuluoshu-github-readme)
 
 
-Baidu VIS Researcher
-
 Department of Computer Vision Technology (VIS).
-Baidu Inc.  
+Baidu Inc. 
+
+
 [[Google scholar]](https://scholar.google.com/citations?user=bmN_nycAAAAJ)
 
 --------
