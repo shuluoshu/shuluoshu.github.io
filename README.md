@@ -2,6 +2,10 @@
 ![image](https://github.com/shuluoshu/shuluoshu.github.io/blob/main/imgs/3a_small42.png)
 
 
+
+### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/shuluoshu-github-readme)
+
+
 Baidu VIS Researcher
 
 Department of Computer Vision Technology (VIS).
@@ -124,6 +128,4 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **Feature Ensemble Network with Occlusion Disambiguation for Accurate Patch-Based Stereo Matching**. IEICE TRANSACTIONS on Information and Systems 2017. [[PDF]](https://www.jstage.jst.go.jp/article/transinf/E100.D/12/E100.D_2017EDL8122/_pdf)
   - **Xiaoqing Ye**, Jiamao Li, Han Wang, Xiaolin Zhang.
 
-
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/shuluoshu-github-readme)
 
