@@ -60,7 +60,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Jianhui Liu, Yukang Chen, **Xiaoqing Ye**, Zhuotao Tian, Xiao Tan, Xiaojuan Qi.
   
 - **Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**. ACCV 2022. [[PDF]](https://arxiv.org/pdf/2206.07698.pdf)
-  - Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, Jiadai Sun, Xiao Tan, Errui Ding
+  - Xiang Guo, Guanying Chen, Yuchao Dai, **Xiaoqing Ye**, Jiadai Sun, Xiao Tan, Errui Ding
 - **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.[[PDF]](https://dl.acm.org/doi/abs/10.1145/3534678.3539029)
   - Jianzhong Yang\*, **Xiaoqing Ye**\*, Bin Wu, Yanlei Gu, Ziyu Wang, Deguo Xia, Jizhou Huang.
 - **SGM3D: Stereo Guided Monocular 3D Object Detection**, IEEE Robotics and Automation Letters (RAL) 2022.[[PDF]](https://arxiv.org/pdf/2112.01914.pdf)
