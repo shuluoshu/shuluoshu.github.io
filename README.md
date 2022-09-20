@@ -10,7 +10,7 @@ Serving as an RD in Department of Computer Vision Technology (VIS).
 Baidu Inc. 
 
 
-[[Google scholar]](https://scholar.google.com/citations?user=bmN_nycAAAAJ)
+My google scholar page: [[Google scholar]](https://scholar.google.com/citations?user=bmN_nycAAAAJ)
 
 --------
 # About Me
