@@ -55,8 +55,10 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Shi Gong\*, **Xiaoqing Ye**\*, Xiao Tan, Jingdong Wang, Errui Ding, Yu Zhou, Xiang Bai.
 - **TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation**. CVPR 2022. [[PDF]](https://jiaya.me/papers/cvpr22_ruihang.pdf)
   - Ruihang Chu, **Xiaoqing Ye**, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia.
+  
 - **Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**. NeurIPS 2022.
- - Jianhui Liu, Yukang Chen, **Xiaoqing Ye**, Zhuotao Tian, Xiao Tan, Xiaojuan Qi.
+  - Jianhui Liu, Yukang Chen, **Xiaoqing Ye**, Zhuotao Tian, Xiao Tan, Xiaojuan Qi.
+  
 - **Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**. ACCV 2022. [[PDF]](https://arxiv.org/pdf/2206.07698.pdf)
   - Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, Jiadai Sun, Xiao Tan, Errui Ding
 - **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.[[PDF]](https://dl.acm.org/doi/abs/10.1145/3534678.3539029)
