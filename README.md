@@ -24,7 +24,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - 1 Paper accepted by NeurIPS 2022!
 - 1 Paper accepted by ACCV 2022!
 - 1 Paper accepted by ECCV2022!
-- Won the Champion both in the Pitch Localization and Camera Calibration Track in SoccerNet Challenge (CVPR2022)!
+- Won the **Champion** both in the Pitch Localization and Camera Calibration Track in SoccerNet Challenge (CVPR2022)!
 - 2 Papers accepted by ACM MM 2022.
 - 1 Paper accepted by KDD 2022 as **oral**!
 - 2 Papers accepted by CVPR 2022!
@@ -33,13 +33,13 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - 1 paper accepted by TPAMI 2021.
 - 4 Papers accepted by ACM MM 2021.
 - 1 Paper accpeted by CVPR 2021.
-- Won the Champion in ROD Challenge!
+- Won the **Champion** in ROD Challenge!
 - 1 workshop paper accepted by ICMR 2021.
 - 1 Paper accepted by ECCV 2020.
 - 1 Paper accepted by CVPR 2020.
 - 1 Paper accepted by AAAI 2020 as **oral**!
-- Won the first place in AI City Challengle 2020 Track 1.
-- Won the first place in AI City Challengle 2019 ReID Track. 
+- Won the **Champion** in AI City Challengle 2020 Track 1.
+- Won the **Champion** in AI City Challengle 2019 ReID Track. 
 - 1 Paper accepted by IROS 2020.
 - 1 Paper accepted by ICCV 2019.
 - 1 Paper accepted by ECCV 2018.
