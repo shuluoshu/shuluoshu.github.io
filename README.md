@@ -15,7 +15,7 @@ Baidu Inc.
 --------
 # About Me
 I am now working at Baidu VIS as an Reseacher & Developer.  
-My research interest is **3D vision**, including 3D object detection, depth estimation, stereo matching, point cloud semantic segmentation, NeRF and human motion capture, especially for Autonomous Driving and AIGC.
+My research interest is **3D vision**, including 3D object detection (monocular/BEV/lidar/stereo), NeRF, depth estimation, point cloud semantic segmentation, 6DoF pose estimation, and human motion capture, especially for **Autonomous Driving** and **AIGC**.
 I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019.
 
 --------
