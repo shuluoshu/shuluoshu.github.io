@@ -72,7 +72,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **The devil is in the face: Exploiting harmonious representations for facial expression recognition**, NeuralComputing. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002193)
   - Jiayi Han, Liang Du, **Xiaoqing Ye**, Li Zhang, Jianfeng Feng.  
   
-## 2021 
+## [2021]
 - **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network.** IEEE Transactions on Pattern Analysis and Machine Intelligence(**TPAMI**) 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9511841)
   - Liang Du, **Xiaoqing Ye**, Xiao Tan, Edward Johns, Bo Chen, Errui Ding, Xiangyang Xue, Jianfeng Feng.
   
@@ -100,7 +100,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **DANet: Dimension Apart Network for Radar Object Detection**. ICMRworkshop 2021.[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3460426.3463656)
   - Bo Ju, Wei Yang, Jinrang Jia, **Xiaoqing Ye**, Qu Chen, Xiao Tan, Hao Sun, Yifeng Shi, Errui Ding.
 
-## 2020
+## [2020]
 - **Monocular 3d object detection via feature domain adaptation.** ECCV 2020. [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540018.pdf)
   - **Xiaoqing Ye**\*, Liang Du\*, Yifeng Shi, Yingying Li, Xiao Tan, Jianfeng Feng, Errui Ding, Shilei Wen.
   
@@ -122,7 +122,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **Robust movement-specific vehicle counting at crowded intersections**. CVPR 2020. [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Liu_Robust_Movement-Specific_Vehicle_Counting_at_Crowded_Intersections_CVPRW_2020_paper.pdf)
   - Zhongji Liu, Wei Zhang, Xu Gao, Hao Meng, Xiao Tan, Xiaoxing Zhu, Zhan Xue, **Xiaoqing Ye**, Hongwu Zhang, Shilei Wen, Errui Ding
   
-## 2019 
+## [2019]
 - **Multi-camera vehicle tracking and re-identification based on visual and spatial-temporal features.** CVPR 2019workshops.[[PDF]](https://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Tan_Multi-camera_vehicle_tracking_and_re-identification_based_on_visual_and_spatial-temporal_CVPRW_2019_paper.html)
   - Xiao Tan, Zhigang Wang, Minyue Jiang, Xipeng Yang, Jian Wang, Yuan Gao, Xiangbo Su, **Xiaoqing Ye**, Yuchen Yuan, Dongliang He, Shilei Wen, Errui Ding.
   
@@ -130,12 +130,12 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Liang Du, Jingang Tan, Hongye Yang, Jianfeng Feng, Xiangyang Xue, Qibao Zheng, **Xiaoqing Ye**, Xiaolin Zhang.
 
   
-## 2018 
+## [2018] 
 - **3D Recurrent neural networks with context fusion for point cloud semantic segmentation.** ECCV 2018. [[PDF]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoqing_Ye_3D_Recurrent_Neural_ECCV_2018_paper.pdf)
   - **Xiaoqing Ye**, Jiamao Li, Hexiao Huang, Liang Du, Xiaolin Zhang.
 
 
-## 2017
+## [2017]
 - **Order-based disparity refinement including occlusion handling for stereo matching**. IEEE Signal Processing Letters 2017. [[PDF]](https://ieeexplore.ieee.org/document/8010259)
   - **Xiaoqing Ye**, Yuzhang Gu, Lili Chen, Jiamao Li, Han Wang, Xiaolin Zhang.
 
