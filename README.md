@@ -63,19 +63,19 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   
 - **Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**. ACCV 2022. [[PDF]](https://arxiv.org/pdf/2206.07698.pdf)
   - Xiang Guo, Guanying Chen, Yuchao Dai, **Xiaoqing Ye**, Jiadai Sun, Xiao Tan, Errui Ding.
-  - 
+   
 - **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.[[PDF]](https://dl.acm.org/doi/abs/10.1145/3534678.3539029)
   - Jianzhong Yang\*, **Xiaoqing Ye**\*, Bin Wu, Yanlei Gu, Ziyu Wang, Deguo Xia, Jizhou Huang.
-  - 
+   
 - **SGM3D: Stereo Guided Monocular 3D Object Detection**, IEEE Robotics and Automation Letters (RAL) 2022.[[PDF]](https://arxiv.org/pdf/2112.01914.pdf)
   - Zheyuan Zhou, Liang Du, **Xiaoqing Ye**, Zhikang Zou, Xiao Tan, Li Zhang, Xiangyang Xue, Jianfeng Feng.
-  - 
+  
 - **Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation**, IEEE Robotics and Automation Letters (RAL) 2022.
   - Peizhe Jiang, Wei Yang, **Xiaoqing Ye**, Xiao Tan, Meng Wu.
-  - 
+  
 - **Modify the self-attention via skeleton decomposition for effective point-cloud transformer**， AAAI 2022. [[PDF]](https://www.aaai.org/AAAI22Papers/AAAI-612.HanJ.pdf)
   - Jiayi Han, Longbin Zeng, Liang Du, **Xiaoqing Ye**, Weiyang Ding, Jianfeng Feng.  
-  - 
+  
 - **The devil is in the face: Exploiting harmonious representations for facial expression recognition**, NeuralComputing. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002193)
   - Jiayi Han, Liang Du, **Xiaoqing Ye**, Li Zhang, Jianfeng Feng.  
   
