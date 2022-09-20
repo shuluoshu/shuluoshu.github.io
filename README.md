@@ -60,10 +60,12 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   
 - **Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**. NeurIPS 2022.
   - Jianhui Liu, Yukang Chen, **Xiaoqing Ye**, Zhuotao Tian, Xiao Tan, Xiaojuan Qi.
-- **Paint and Distill: Boosting 3D Object Detection with Semantic Passing Network**. ACM MM 2022.  
+  
+- **Paint and Distill: Boosting 3D Object Detection with Semantic Passing Network**. ACM MM 2022. [[PDF]](https://arxiv.org/pdf/2207.05497.pdf)
   - Bo Ju, Zhikang Zou, **Xiaoqing Ye**, Minyue Jiang, Xiao Tan, Errui Ding, Jingdong Wang.
+  
 - **Repainting and Imitating Learning for Lane Detection**. ACM MM 2022.
-  - Yue He\*, Minyue Jiang\*, **Xiaoqing Ye**\*, Liang Du, Zhikang Zou, Wei Zhang, Xiao Tan, Errui Ding
+  - Yue He\*, Minyue Jiang\*, **Xiaoqing Ye**\*, Liang Du, Zhikang Zou, Wei Zhang, Xiao Tan, Errui Ding.
 
 - **Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**. ACCV 2022. [[PDF]](https://arxiv.org/pdf/2206.07698.pdf)
   - Xiang Guo\*, Guanying Chen\*, Yuchao Dai, **Xiaoqing Ye**, Jiadai Sun, Xiao Tan, Errui Ding.
