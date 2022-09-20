@@ -51,8 +51,10 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 ## [2022]
 - **Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf) [[Code]](https://github.com/liyingying0113/rope3d-dataset-tools) [[Project]](https://thudair.baai.ac.cn/rope)
   - **Xiaoqing Ye**, Mao Shu, Hanyu Li, Yifeng Shi, Yingying Li, Guangjie Wang, Xiao Tan, Errui Ding.
+  
 - **GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation**. ECCV 2022. [[PDF]](https://arxiv.org/abs/2204.07733)
   - Shi Gong\*, **Xiaoqing Ye**\*, Xiao Tan, Jingdong Wang, Errui Ding, Yu Zhou, Xiang Bai.
+  
 - **TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation**. CVPR 2022. [[PDF]](https://jiaya.me/papers/cvpr22_ruihang.pdf)
   - Ruihang Chu, **Xiaoqing Ye**, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia.
   
@@ -60,15 +62,20 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Jianhui Liu, Yukang Chen, **Xiaoqing Ye**, Zhuotao Tian, Xiao Tan, Xiaojuan Qi.
   
 - **Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**. ACCV 2022. [[PDF]](https://arxiv.org/pdf/2206.07698.pdf)
-  - Xiang Guo, Guanying Chen, Yuchao Dai, **Xiaoqing Ye**, Jiadai Sun, Xiao Tan, Errui Ding
+  - Xiang Guo, Guanying Chen, Yuchao Dai, **Xiaoqing Ye**, Jiadai Sun, Xiao Tan, Errui Ding.
+  - 
 - **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.[[PDF]](https://dl.acm.org/doi/abs/10.1145/3534678.3539029)
   - Jianzhong Yang\*, **Xiaoqing Ye**\*, Bin Wu, Yanlei Gu, Ziyu Wang, Deguo Xia, Jizhou Huang.
+  - 
 - **SGM3D: Stereo Guided Monocular 3D Object Detection**, IEEE Robotics and Automation Letters (RAL) 2022.[[PDF]](https://arxiv.org/pdf/2112.01914.pdf)
   - Zheyuan Zhou, Liang Du, **Xiaoqing Ye**, Zhikang Zou, Xiao Tan, Li Zhang, Xiangyang Xue, Jianfeng Feng.
+  - 
 - **Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation**, IEEE Robotics and Automation Letters (RAL) 2022.
   - Peizhe Jiang, Wei Yang, **Xiaoqing Ye**, Xiao Tan, Meng Wu.
+  - 
 - **Modify the self-attention via skeleton decomposition for effective point-cloud transformer**， AAAI 2022. [[PDF]](https://www.aaai.org/AAAI22Papers/AAAI-612.HanJ.pdf)
   - Jiayi Han, Longbin Zeng, Liang Du, **Xiaoqing Ye**, Weiyang Ding, Jianfeng Feng.  
+  - 
 - **The devil is in the face: Exploiting harmonious representations for facial expression recognition**, NeuralComputing. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002193)
   - Jiayi Han, Liang Du, **Xiaoqing Ye**, Li Zhang, Jianfeng Feng.  
   
@@ -85,7 +92,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection**. CVPR 20201. [[PDF]](https://arxiv.org/abs/2103.16470)[[Code]](https://github.com/fudan-zvg/DDMP)
   - Li Wang\*, Liang Du\*, **Xiaoqing Ye**\*, Yanwei Fu, Guodong Guo, Xiangyang Xue, Jianfeng Feng, Li Zhang.
 
-- **AggNet for Self-supervised Monocular Depth Estimation: Go An Aggressive Step Further.** ACM International Conference on Multimedia (**ACM MM**) 2021.
+- **AggNet for Self-supervised Monocular Depth Estimation: Go An Aggressive Step Further.** ACM International Conference on Multimedia (**ACM MM**) 2021.[[PDF]](https://dl.acm.org/doi/abs/10.1145/3474085.3475287)
   - Zhi Chen\*, **Xiaoqing Ye**\*, Liang Du, Wei Yang, Liusheng Huang, Xiao Tan, Zhenbo Shi, Fumin Shen, Errui Ding.
   
 - **Lifting the Veil of Frequency in Joint Segmentation and Depth Estimation**. ACM International Conference on Multimedia (**ACM MM**) 2021.
