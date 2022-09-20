@@ -48,7 +48,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 # Publications
 *: co-first author
 
-## 2022
+## [2022]
 - **Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf) [[Code]](https://github.com/liyingying0113/rope3d-dataset-tools) [[Project]](https://thudair.baai.ac.cn/rope)
   - **Xiaoqing Ye**, Mao Shu, Hanyu Li, Yifeng Shi, Yingying Li, Guangjie Wang, Xiao Tan, Errui Ding.
 - **GitNet: Geometric Prior-based Transformation for Birds-Eye-View Segmentation**. ECCV 2022. [[PDF]](https://arxiv.org/abs/2204.07733)
