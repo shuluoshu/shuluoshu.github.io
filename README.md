@@ -58,7 +58,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation**. CVPR 2022. [[PDF]](https://jiaya.me/papers/cvpr22_ruihang.pdf)
   - Ruihang Chu, **Xiaoqing Ye**, Zhengzhe Liu, Xiao Tan, Xiaojuan Qi, Chi-Wing Fu, Jiaya Jia.
   
-- **Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**. NeurIPS 2022.
+- **Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**. NeurIPS 2022. [[PDF]](https://arxiv.org/pdf/2209.14201.pdf)
   - Jianhui Liu, Yukang Chen, **Xiaoqing Ye**, Zhuotao Tian, Xiao Tan, Xiaojuan Qi.
   
 - **Paint and Distill: Boosting 3D Object Detection with Semantic Passing Network**. ACM MM 2022. [[PDF]](https://arxiv.org/pdf/2207.05497.pdf)
