@@ -22,7 +22,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 
 # Recent Acitivities
 - 1 Paper accepted by NeurIPS 2022!
-- 1 Paper accepted by ACCV 2022!
+- 1 Paper accepted by ACCV 2022 as **oral**!
 - 1 Paper accepted by ECCV2022!
 - Won the **Champion** both in the Pitch Localization and Camera Calibration Track in SoccerNet Challenge (CVPR2022)!
 - 2 Papers accepted by ACM MM 2022.
@@ -67,7 +67,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **Repainting and Imitating Learning for Lane Detection**. ACM MM 2022.
   - Yue He\*, Minyue Jiang\*, **Xiaoqing Ye**\*, Liang Du, Zhikang Zou, Wei Zhang, Xiao Tan, Errui Ding.
 
-- **Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**. ACCV 2022. [[PDF]](https://arxiv.org/pdf/2206.07698.pdf)
+- **Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**. ACCV 2022. [[PDF]](https://arxiv.org/pdf/2206.07698.pdf) [[Project]](https://npucvr.github.io/NDVG)
   - Xiang Guo\*, Guanying Chen\*, Yuchao Dai, **Xiaoqing Ye**, Jiadai Sun, Xiao Tan, Errui Ding.
    
 - **DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps**, KDD 2022.[[PDF]](https://dl.acm.org/doi/abs/10.1145/3534678.3539029)
