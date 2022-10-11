@@ -76,7 +76,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - **SGM3D: Stereo Guided Monocular 3D Object Detection**, IEEE Robotics and Automation Letters (RAL) 2022.[[PDF]](https://arxiv.org/pdf/2112.01914.pdf)
   - Zheyuan Zhou, Liang Du, **Xiaoqing Ye**, Zhikang Zou, Xiao Tan, Li Zhang, Xiangyang Xue, Jianfeng Feng.
   
-- **Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation**, IEEE Robotics and Automation Letters (RAL) 2022.
+- **Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation**, IEEE Robotics and Automation Letters (RAL) 2022. [[PDF]](https://arxiv.org/abs/2210.03952)
   - Peizhe Jiang, Wei Yang, **Xiaoqing Ye**, Xiao Tan, Meng Wu.
   
 - **Modify the self-attention via skeleton decomposition for effective point-cloud transformer**， AAAI 2022. [[PDF]](https://www.aaai.org/AAAI22Papers/AAAI-612.HanJ.pdf)
