@@ -21,6 +21,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 --------
 
 # Recent Acitivities
+- 1 Paper accepted by AAAI 2023! 
 - 1 Paper accepted by NeurIPS 2022!
 - 1 Paper accepted by ACCV 2022 as **oral**!
 - 1 Paper accepted by ECCV2022!
@@ -49,6 +50,9 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 *: co-first author
 
 ## [2022]
+- **StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-based 3D Object Detection**. AAAI 2023.
+  - Zhe Liu, **Xiaoqing Ye**, Xiao Tan, Errui Ding, Xiang Bai.
+
 - **Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**. CVPR 2022. [[PDF]](https://arxiv.org/pdf/2203.13608.pdf) [[Code]](https://github.com/liyingying0113/rope3d-dataset-tools) [[Project]](https://thudair.baai.ac.cn/rope)
   - **Xiaoqing Ye**, Mao Shu, Hanyu Li, Yifeng Shi, Yingying Li, Guangjie Wang, Xiao Tan, Errui Ding.
   
