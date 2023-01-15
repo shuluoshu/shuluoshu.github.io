@@ -39,8 +39,8 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - 1 Paper accepted by ECCV 2020.
 - 1 Paper accepted by CVPR 2020.
 - 1 Paper accepted by AAAI 2020 as **oral**!
-- Won the **Champion** in AI City Challengle 2020 Track 1.
-- Won the **Champion** in AI City Challengle 2019 ReID Track. 
+- Won the **Champion** in AI City Challenge 2020 Track 1.
+- Won the **Champion** in AI City Challenge 2019 ReID Track. 
 - 1 Paper accepted by IROS 2020.
 - 1 Paper accepted by ICCV 2019.
 - 1 Paper accepted by ECCV 2018.
