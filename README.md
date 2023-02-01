@@ -21,6 +21,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 --------
 
 # Recent Acitivities
+- 1 Paper accepted by ICRA 2023! 
 - 1 Paper accepted by AAAI 2023! 
 - 1 Paper accepted by NeurIPS 2022!
 - 1 Paper accepted by ACCV 2022 as **oral**!
