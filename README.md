@@ -51,7 +51,8 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 # Publications
 *: co-first author
 ## [2023]
-
+- **CAPE: Camera View Position Embedding for Multi-View 3D Object Detection**. CVPR 2023. [[PDF]](https://arxiv.org/abs/2303.10209) [[Paddle3D  version]](https://github.com/PaddlePaddle/Paddle3D/tree/develop/docs/models/cape) [[Pytorch Code]](https://github.com/kaixinbear/CAPE) 
+  - Kaixin Xiong\*, Shi Gong\*, **Xiaoqing Ye**\*, Xiao Tan, Errui Ding, Jingdong Wang, Xiang Bai.
 - **StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-based 3D Object Detection**. AAAI 2023.[[PDF]](https://arxiv.org/abs/2301.01615)
   - Zhe Liu, **Xiaoqing Ye**, Xiao Tan, Errui Ding, Xiang Bai.
   
