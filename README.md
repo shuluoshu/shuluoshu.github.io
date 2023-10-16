@@ -16,11 +16,14 @@ My google scholar page: [[Google scholar]](https://scholar.google.com/citations?
 # About Me
 I am now working at Baidu VIS as an Reseacher & Developer.  
 My research interest is **3D vision**, including 3D object detection (monocular/BEV/lidar/stereo), NeRF, depth estimation, point cloud semantic segmentation, 6DoF pose estimation, and human motion capture, especially for **Autonomous Driving** and **AIGC**.
-I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from Chinese Academy of Sciences in 2019.
+I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from the Chinese Academy of Sciences in 2019.
 
 --------
 
 # Recent Acitivities
+- 1 Paper accepted by NeurIPS 2023!
+- 3 Papers accepted by ICCV 2023!
+- Our NeRF paper received an Oral in ICCV23!
 - 4 Papers accepted by CVPR 2023!
 - 1 Paper accepted by ICRA 2023! 
 - 1 Paper accepted by AAAI 2023! 
@@ -35,7 +38,7 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 - 2 Papers accepted by ICCV 2021.
 - 1 paper accepted by TPAMI 2021.
 - 4 Papers accepted by ACM MM 2021.
-- 1 Paper accpeted by CVPR 2021.
+- 1 Paper accepted by CVPR 2021.
 - Won the **Champion** in ROD Challenge!
 - 1 workshop paper accepted by ICMR 2021.
 - 1 Paper accepted by ECCV 2020.
@@ -51,6 +54,8 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 # Publications
 *: co-first author
 ## [2023]
+- **Forward Flow for Novel View Synthesis of Dynamic Scenes**. ICCV 2023. [[PDF]](https://arxiv.org/pdf/2309.17390.pdf)[[Code]](https://npucvr.github.io/ForwardFlowDNeRF/)
+  - Xiang Guo, Jiadai Sun, Yuchao Dai, Guanying Chen, **Xiaoqing Ye**, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang.
 - **CAPE: Camera View Position Embedding for Multi-View 3D Object Detection**. CVPR 2023. [[PDF]](https://arxiv.org/abs/2303.10209) [[Paddle3D  version]](https://github.com/PaddlePaddle/Paddle3D/tree/develop/docs/models/cape) [[Pytorch Code]](https://github.com/kaixinbear/CAPE) 
   - Kaixin Xiong\*, Shi Gong\*, **Xiaoqing Ye**\*, Xiao Tan, Errui Ding, Jingdong Wang, Xiang Bai.
 - **StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-based 3D Object Detection**. AAAI 2023.[[PDF]](https://arxiv.org/abs/2301.01615)
