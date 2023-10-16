@@ -54,8 +54,18 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
 # Publications
 *: co-first author
 ## [2023]
-- **Forward Flow for Novel View Synthesis of Dynamic Scenes**. ICCV 2023. [[PDF]](https://arxiv.org/pdf/2309.17390.pdf)[[Code]](https://npucvr.github.io/ForwardFlowDNeRF/)
+- **Forward Flow for Novel View Synthesis of Dynamic Scenes**. ICCV 2023. **Oral**. [[PDF]](https://arxiv.org/pdf/2309.17390.pdf)[[Code]](https://npucvr.github.io/ForwardFlowDNeRF/)
   - Xiang Guo, Jiadai Sun, Yuchao Dai, Guanying Chen, **Xiaoqing Ye**, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang.
+    
+- **Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes**. Technical report. [[PDF]](https://arxiv.org/pdf/2305.10430.pdf) [[Code]](https://github.com/E2E-AD/AD-MLP)
+ - Jiang-Tian Zhai, Ze Feng, Jinhao Du, Yongqiang Mao, Jiang-Jiang Liu, Zichang Tan, Yifu Zhang, **Xiaoqing Ye**, Jingdong Wang.
+   
+- **SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model**. Technical report. [[PDF]](https://arxiv.org/pdf/2306.02245.pdf) [[Code]](https://github.com/DYZhang09/SAM3D)
+ - Dingyuan Zhang, Dingkang Liang, Hongcheng Yang, Zhikang Zou, **Xiaoqing Ye**, Zhe Liu, Xiang Bai.
+   
+- **Diffusion-based 3D Object Detection with Random Boxes**. PRCV 2023. [[PDF]](https://arxiv.org/pdf/2309.02049.pdf)
+ - Xin Zhou, Jinghua Hou, Tingting Yao, Dingkang Liang, Zhe Liu, Zhikang Zou, **Xiaoqing Ye**, Jianwei Cheng, Xiang Bai.
+   
 - **CAPE: Camera View Position Embedding for Multi-View 3D Object Detection**. CVPR 2023. [[PDF]](https://arxiv.org/abs/2303.10209) [[Paddle3D  version]](https://github.com/PaddlePaddle/Paddle3D/tree/develop/docs/models/cape) [[Pytorch Code]](https://github.com/kaixinbear/CAPE) 
   - Kaixin Xiong\*, Shi Gong\*, **Xiaoqing Ye**\*, Xiao Tan, Errui Ding, Jingdong Wang, Xiang Bai.
 - **StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-based 3D Object Detection**. AAAI 2023.[[PDF]](https://arxiv.org/abs/2301.01615)
