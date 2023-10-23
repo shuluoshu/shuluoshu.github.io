@@ -58,10 +58,10 @@ I received my B.E degree from Wuhan University in 2014 and my Ph.D. degree from 
   - Xiang Guo, Jiadai Sun, Yuchao Dai, Guanying Chen, **Xiaoqing Ye**, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang.
     
 - **Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes**. Technical report. [[PDF]](https://arxiv.org/pdf/2305.10430.pdf) [[Code]](https://github.com/E2E-AD/AD-MLP)
- - Jiang-Tian Zhai, Ze Feng, Jinhao Du, Yongqiang Mao, Jiang-Jiang Liu, Zichang Tan, Yifu Zhang, **Xiaoqing Ye**, Jingdong Wang.
+  - Jiang-Tian Zhai, Ze Feng, Jinhao Du, Yongqiang Mao, Jiang-Jiang Liu, Zichang Tan, Yifu Zhang, **Xiaoqing Ye**, Jingdong Wang.
    
 - **SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model**. Technical report. [[PDF]](https://arxiv.org/pdf/2306.02245.pdf) [[Code]](https://github.com/DYZhang09/SAM3D)
- - Dingyuan Zhang, Dingkang Liang, Hongcheng Yang, Zhikang Zou, **Xiaoqing Ye**, Zhe Liu, Xiang Bai.
+  - Dingyuan Zhang, Dingkang Liang, Hongcheng Yang, Zhikang Zou, **Xiaoqing Ye**, Zhe Liu, Xiang Bai.
    
 - **Diffusion-based 3D Object Detection with Random Boxes**. PRCV 2023. [[PDF]](https://arxiv.org/pdf/2309.02049.pdf)
  - Xin Zhou, Jinghua Hou, Tingting Yao, Dingkang Liang, Zhe Liu, Zhikang Zou, **Xiaoqing Ye**, Jianwei Cheng, Xiang Bai.
